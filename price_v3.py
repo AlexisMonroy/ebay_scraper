@@ -5,8 +5,10 @@ from bs4 import BeautifulSoup
 base_url = 'https://www.ebay.com/sch/i.html?_nkw='
 
 # Set the keyword you want to search for
-keyword = 'pokemon hat'
+user_input = input('Enter a keyword to search for: ')
 
+# Set the keyword you want to search for
+keyword = user_input
 # Construct the full URL for the search results page
 url = base_url + keyword
 
