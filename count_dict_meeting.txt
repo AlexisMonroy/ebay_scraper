@@ -1,0 +1,23 @@
+Row Labels,Count of Lead Name
+Andy Pan,4
+Anita Tsun,2
+Bernice Lee,4
+Brian Gong,4
+Bryan Lee,3
+Christy Schmidt,1
+Dalia Lara,2
+David Kim,2
+Dean Coffman,2
+Eric Hwang,2
+Eric Wilson,1
+Janice Kim,6
+Joaquin Moreno,6
+Kyle Bloss,5
+Melody Li,1
+Michelle Moss,2
+Mitchell Bennett,4
+Philip Asenas,11
+Thomas Lee,1
+Victoria Yow,3
+William Ko,6
+Grand Total,72
